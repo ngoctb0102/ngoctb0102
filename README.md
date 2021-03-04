@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ngoc 
+### 🌱 I’m currently learning at Ha Noi University Of Science And Technology.
+### 💬 Ask me about anything
+### 📫 Contact me with phone : 0583119267
+### 🔭 I’m currently working on C,Java,Python,CSS
 
 <!--
 **loli-slayer/loli-slayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
