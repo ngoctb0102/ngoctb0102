@@ -5,6 +5,7 @@
 ### 🔭 I’m currently working on C,Java,Python,CSS
 ### ⚡ Fun fact: I'm love zoe and want to build an powerfull AI just help me do almost of things :robot:
 ### :facepunch: My facebook : <a href="https://www.facebook.com/darkness1331311/">Link here</a>
+### Languages: English, Japanese(日本語)
 # My project
 ### 1. Dictionary in C language:
 - Use Btree :deciduous_tree: to store words and find it as fast as posible
