@@ -18,7 +18,6 @@
 - Cv2 to detect text localization 
 - Will update in future use anothor algorithm
 # :blue_heart: thanks for visit my github !!!
-<h1>ABC</h1>
 
 <!--
 **loli-slayer/loli-slayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
