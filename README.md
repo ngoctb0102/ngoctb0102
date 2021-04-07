@@ -4,7 +4,7 @@
 ### 📫 Contact me with phone : 0583119267
 ### 🔭 I’m currently working on C,Java,Python,CSS
 ### ⚡ Fun fact: I'm love zoe and want to build an powerfull AI just help me do almost of things :robot:
-### :facepunch: My facebook : <a href="https://www.facebook.com/darkness1331311/">Link here</a>
+### :facepunch: My facebook : <a href="https://www.facebook.com/darkness1331311/">https://www.facebook.com/darkness1331311/</a>
 ### :1st_place_medal: Languages: English, Japanese(日本語)
 # My project
 ### 1. Dictionary in C language:
