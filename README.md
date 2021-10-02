@@ -2,7 +2,7 @@
 ### 🌱 I’m currently learning at Ha Noi University Of Science And Technology.
 ### 💬 Ask me about anything
 ### 📫 Contact me with phone : 0583119267
-### 🔭 I’m currently working on C,Java,Python,CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctb0102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### ⚡ Fun fact: I'm love zoe and want to build an powerfull AI just help me do almost of things :robot:
 ### :facepunch: My facebook : <a href="https://www.facebook.com/darkness1331311/">Link here</a>
 ### :1st_place_medal: Languages: English, Japanese(日本語)
