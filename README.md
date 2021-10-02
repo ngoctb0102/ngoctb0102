@@ -8,17 +8,16 @@
 ### :1st_place_medal: Languages: English, Japanese(日本語)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoctb0102&show_icons=true&theme=radical)
 
-# My project
-### 1. Dictionary in C language:
-- Use Btree :deciduous_tree: to store words and find it as fast as posible
-### 2. Internet Service Provide Web:
+# My public project
+### 1. Internet Service Provide Web:
 - Website is code by python Django, Html and CSS
 - Funny feature with a loli theme :kissing_smiling_eyes: :policeman: 
 - PostgreSQL to store data user
-### 3. Convert word from image to text:
-- Use KNN to recognize word picture
-- Cv2 to detect text localization 
-- Will update in future use anothor algorithm
+### 2. Camera position detected
+- Can calculate the percentage of space what is seen by camera
+- OOP design !!
+### 3. Dictionary in C language:
+- Use Btree :deciduous_tree: to store words and find it as fast as posible
 # :blue_heart: thanks for visit my github !!!
 
 <!--
