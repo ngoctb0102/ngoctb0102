@@ -12,7 +12,7 @@
 ### 1. Internet Service Provide Web:
 - Website is code by python Django, Html and CSS
 - Funny feature with a loli theme :kissing_smiling_eyes: :policeman: 
-- PostgreSQL to store data user
+- PostgreSQL to store data user!
 ### 2. Camera position detected
 - Can calculate the percentage of space what is seen by camera
 - OOP design !!
